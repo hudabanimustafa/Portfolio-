@@ -16,6 +16,9 @@ This project showcases my skills in **HTML** and **CSS**. It took approximately 
 
 **Live Demo:**
 https://hudabanimustafa99.netlify.app/
+![image](https://github.com/hudabanimustafa/Portfolio-/assets/71215108/a47b3784-29a6-45e1-9169-462f34481106)
+
+
 
 
 
