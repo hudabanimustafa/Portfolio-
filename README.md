@@ -4,8 +4,7 @@ This project showcases my skills in **HTML** and **CSS**. It took approximately 
 
 **Project Description:**
 
-* Briefly describe the purpose and functionality of your portfolio project. 
-* Mention any key features or highlights of the project.
+* It's just a basic activity to help me remember my understanding of front-end programming languages, and it's a simple portfolio.
 
 
 **Technologies Used:**
